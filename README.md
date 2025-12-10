@@ -1,0 +1,2 @@
+# ak47_vipshop
+ADVANCED VIP SHOP FIVEM | ESX/QBCORE
